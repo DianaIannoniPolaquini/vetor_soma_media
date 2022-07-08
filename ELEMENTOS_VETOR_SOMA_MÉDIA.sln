@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELEMENTOS_VETOR_SOMA_MÉDIA", "ELEMENTOS_VETOR_SOMA_MÉDIA\ELEMENTOS_VETOR_SOMA_MÉDIA.csproj", "{A5ADB418-8610-4E1E-8856-E1D20F03D92A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5ADB418-8610-4E1E-8856-E1D20F03D92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5ADB418-8610-4E1E-8856-E1D20F03D92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5ADB418-8610-4E1E-8856-E1D20F03D92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5ADB418-8610-4E1E-8856-E1D20F03D92A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C94CBBC8-8E1A-4EAC-851D-2446BA9951CB}
+	EndGlobalSection
+EndGlobal
